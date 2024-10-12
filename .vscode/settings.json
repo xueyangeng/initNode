@@ -1,0 +1,16 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  // "editor.formatOnSave": true
+  // 保留代码结尾的分号
+  "prettier.semi": true,
+  //  #使用单引号替代双引号
+  "prettier.singleQuote": true,
+  // 指定每行代码的最佳长度， 如果超出长度则换行。
+  "prettier.printWidth": 100,
+  "editor.indentSize": "tabSize"
+}
